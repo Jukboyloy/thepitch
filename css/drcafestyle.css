@@ -1,0 +1,91 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/a8/d0/69/a8d0692c04d2324cf887f220c1a07057.jpg);
+    padding: 20px;
+    font-size: 20px;
+    
+}
+.menu{
+    width: 80%;
+    background-color: #7B5E57;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+h1{
+    font-family: "Protest Guerrilla", sans-serif;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+h4{
+    margin-bottom: 15px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1, h2, h4{
+    text-align: center;
+    
+    
+}
+.establish{
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+hr{
+    background-color: #4E342E;
+    height: 3px;
+    border: #4E342E;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.item p{
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width:25%;
+}
+/*footer*/
+.address{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    
+}
+a{
+    color: black
+}
+a:visited{
+    color: black
+}
+a:active{
+    color: #4E342E
+}
+a:hover{
+    color: #4E342E
+}
+
